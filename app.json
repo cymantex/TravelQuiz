@@ -1,0 +1,12 @@
+{
+  "name": "TravelQuiz",
+  "displayName": "TravelQuiz",
+  "expo": {
+    "name": "TravelQuiz",
+    "slug": "TravelQuiz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
